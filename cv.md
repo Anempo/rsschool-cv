@@ -21,3 +21,6 @@ I want to gain knowledge and skills that will be enough to work in the some IT c
 ## Cousres
 * Rolling Scopes School
 ----
+## Languages:
+* Russian (native)
+* English (A1)

@@ -18,3 +18,6 @@ I want to gain knowledge and skills that will be enough to work in the some IT c
 * GitHub
 * HTLM5
 ----
+## Cousres
+* Rolling Scopes School
+----
